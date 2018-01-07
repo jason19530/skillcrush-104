@@ -1,3 +1,23 @@
+/*** Jason Chubb's STYLE  ****/
+
+.jasonchubb-advice h1 {
+letter-spacing: 0em;
+margin-bottom: 150px;
+  font-size: 40px;
+}
+
+.jasonchubb-advice h4 {
+  font-size: 32px;
+}
+
+.jasonchubb-advice p {
+
+  font-size: 24px;
+}
+
+
+
+
 /****** robopingvin's STYLE********/
 .robopingvin-advice {
   font-family:  'Roboto', sans-serif;
@@ -9549,4 +9569,3 @@ font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   text-align: center;
 }
-
